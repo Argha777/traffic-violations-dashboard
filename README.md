@@ -8,9 +8,9 @@ This repository contains the following:
 - 📽️ Presentation: `Traffic Violations Analysis Dashboard.pptx`
 
 ### 📍 Tableau Public Link:
-👉 [View the Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your-link-here](https://public.tableau.com/views/ProjectWorkbook_17542156283460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View the Interactive Dashboard on Tableau Public]_( https://shorturl.at/iGjx7 )_
 
----
+
 
 ## Summary
 This project analyzes traffic violation data using Tableau. It includes insights on violation types, time trends, and locations using various charts and KPIs.
